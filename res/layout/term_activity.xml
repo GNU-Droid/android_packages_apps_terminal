@@ -21,10 +21,10 @@
     android:layout_height="fill_parent"
     android:orientation="vertical">
 
-    <jackpal.androidterm2.EmulatorView android:id="@+id/emulatorView"
+    <jackpal.androidterm2.EmulatorView
+		  android:id="@+id/emulatorView"
 	      android:layout_width="wrap_content"
 	      android:layout_height="wrap_content"
-	      android:layout_alignParentLeft="true"
-	      />
+	      android:layout_alignParentLeft="true" />
    
 </LinearLayout>

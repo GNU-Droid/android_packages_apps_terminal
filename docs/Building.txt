@@ -13,10 +13,10 @@ http://eclipse.org
 After you install the SDK and the NDK, please build some of the samples that
 come with the NDK in order to get a feel for using the SDK and the NDK.
 
-Building Android Term
+Building Terminal
 ---------------------
 
-There are three parts to building Android Term:
+There are three parts to building Terminal:
 
     1) Build the shared library
     2) Create the Eclipse Project for the Application
@@ -43,9 +43,9 @@ Create the Eclipse project:
     From the menu choose File : New Project
     Choose Android:Android Project as a project type
     Press Next
-    Set Project Name: AndroidTerm
+    Set Project Name: Terminal
     Choose "Create project from existing source"
-    Browse to the location of the AndroidTerm source directory.
+    Browse to the location of the Terminal source directory.
     Make sure the "Android 1.6" Target Name is checked.
     Make sure the Min SDK Version is 4
     Press Finish
